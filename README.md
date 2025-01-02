@@ -16,7 +16,7 @@
 4. Automates setup for multiple nodes using a list of IP addresses.
 
 
-**The script supports running with ./script.sh master <SUBNET> for the master node or ./script.sh compute <NODE_IP> [<NODE_IP> ...] for multiple compute nodes. It includes error handling and logging to ensure smooth execution.**
+**The script supports running with ./script.sh master / < SUBNET > for the master node or ./script.sh compute <NODE_IP> for multiple compute nodes. It includes error handling and logging to ensure smooth execution.**
 
 
 
